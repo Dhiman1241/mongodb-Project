@@ -1,0 +1,27 @@
+>>> mongod --version
+ To know the mongodb version.
+
+>>> mongosh
+ To connect to mongo server
+
+>>> ctrl + c |.exit
+ To disconnect from mongo server
+
+>>> cls | console.clear():
+  To clear the screen
+
+>>> single tab:
+  It will autofill the data.
+
+>>> Double tab:
+  To know possible words/ keywords
+
+>>> cd folderName:
+  to enter into the child folder
+
+>>> cd ..:
+  to move back to the parent folder
+
+
+Note: mongoshell is created by javascript
+     we can execute js code here.
